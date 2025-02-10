@@ -5,7 +5,7 @@ const firebaseConfig = {
     projectId: "follow-shop-bd",
     storageBucket: "follow-shop-bd.appspot.com",
     messagingSenderId: "269467699842",
-    appId: "YOUR_APP_ID"
+    appId: "1:269467699842:web:3c62d803f964ad1b2d829b"
 };
 
 // Initialize Firebase
