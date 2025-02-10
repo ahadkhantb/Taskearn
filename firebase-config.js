@@ -4,7 +4,7 @@ const firebaseConfig = {
     authDomain: "https://follow-shop-bd-default-rtdb.firebaseio.com",
     projectId: "follow-shop-bd",
     storageBucket: "follow-shop-bd.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    messagingSenderId: "269467699842",
     appId: "YOUR_APP_ID"
 };
 
